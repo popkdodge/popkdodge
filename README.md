@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:dragon_face: Hi everyone! I am a Data Scientist/Machine Learning Engineer who is currently working in Atlanta,GA for a shoplify store.  I am also been taking extar classes with Lambda School to further improve my skillset with Data Science and Software engineering. 
+I am now searching the :earth_americas: (more specifically Atlanta, GA or Remote) for exciting job opportunities that will specifically allow me to work with brilliant individuals at a fortune 500 or a tech start up.  I would love to either work in finance or automotive industry because I have a passion in researching public stocks companies and cars. 
+- 💬 Ask me about my AirBnB price predictior app and my Porsche price predictor app.
+- 🔭 I’m currently working on a side project with a non-profit to provide more information regarding police violence with Human-rights first group.
+
+:calling: Please reach out if you want to discuss ideas, code, startups or you are interested in working with me. 
+
+[LinkedIn](https://www.linkedin.com/in/skongjareon/)  [Twitter](https://twitter.com/s_kongjareon) 
