@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :dragon_face: Hi everyone! I am a Data Scientist/Machine Learning Engineer who is currently working remotely for Gump's.
-- 💬 Ask me about my AirBnB price predictior app and my Porsche price predictor app.
+- 💬 Ask me about my AWS SAM Architecture 
 - 🔭 I’m currently working on a side project with a non-profit to provide more information regarding police violence with Human-rights first group.
 
 :calling: Please reach out if you want to discuss ideas, code, startups or you are interested in working with me. 
