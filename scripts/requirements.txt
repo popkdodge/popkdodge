@@ -1,0 +1,4 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# local-only, for the portrait pipeline (scripts/prep_photo.py, make_ascii_svg.py):
+# Pillow numpy opencv-python-headless rembg onnxruntime
