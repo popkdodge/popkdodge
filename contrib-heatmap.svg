@@ -386,7 +386,8 @@
 <rect class="c" style="animation-delay:1.098s" x="814" y="128" width="12" height="12" rx="2" fill="#39d353"><title>2026-10-22: 38</title></rect>
 <rect class="c" style="animation-delay:1.143s" x="814" y="143" width="12" height="12" rx="2" fill="#69f0a0"><title>2026-10-23: 71</title></rect>
 <rect class="c" style="animation-delay:1.188s" x="814" y="158" width="12" height="12" rx="2" fill="#69f0a0"><title>2026-10-24: 78</title></rect>
-<rect class="c" style="animation-delay:0.936s" x="829" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-25: 0</title></rect>
+<rect class="c" style="animation-delay:0.936s" x="829" y="68" width="12" height="12" rx="2" fill="#0e4429"><title>2026-10-25: 1</title></rect>
+<rect class="c" style="animation-delay:0.981s" x="829" y="83" width="12" height="12" rx="2" fill="#39d353"><title>2026-10-26: 35</title></rect>
 </g>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#7d8590">
 <text x="715" y="190" text-anchor="end">Less</text>
@@ -397,5 +398,5 @@
 <rect x="781" y="180" width="12" height="12" rx="2" fill="#39d353"/>
 <rect x="796" y="180" width="12" height="12" rx="2" fill="#69f0a0"/>
 <text x="841" y="190" text-anchor="end">More</text></g>
-<text x="49" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.6" fill="#7d8590"><tspan fill="#c9d1d9">2,145</tspan> contributions in the last year · current streak <tspan fill="#c9d1d9">27 days</tspan> · longest <tspan fill="#c9d1d9">27 days</tspan> · best day <tspan fill="#c9d1d9">170</tspan> on <tspan fill="#c9d1d9">2026-10-02</tspan></text>
+<text x="49" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.6" fill="#7d8590"><tspan fill="#c9d1d9">2,181</tspan> contributions in the last year · current streak <tspan fill="#c9d1d9">29 days</tspan> · longest <tspan fill="#c9d1d9">29 days</tspan> · best day <tspan fill="#c9d1d9">170</tspan> on <tspan fill="#c9d1d9">2026-10-02</tspan></text>
 </svg>
